@@ -8,6 +8,12 @@ namespace AdvocateDiary.Models
 {
     public class Client
     {
+        public Client()
+        {
+            Cases = new HashSet<Case>();
+            Fees = new HashSet<Fees>();
+        }
+
         public int ClientId { get; set; }
         public string Name { get; set; } = null!;
         public string Gender { get; set; } = null!;
@@ -18,5 +24,7 @@ namespace AdvocateDiary.Models
         public DateTime CreationDate { get; set; }
         public DateTime ModificationDate { get; set; }
 
+        public virtual ICollection<Case> Cases { get; set; }
+        public virtual ICollection<Fees> Fees { get; set; } 
     }
 }
