@@ -1,0 +1,12 @@
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\bin\Debug\net6.0\AdvocateDiary.Repository.deps.json
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\bin\Debug\net6.0\AdvocateDiary.Repository.dll
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\bin\Debug\net6.0\AdvocateDiary.Repository.pdb
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.csproj.AssemblyReference.cache
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.AssemblyInfoInputs.cache
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.AssemblyInfo.cs
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.csproj.CoreCompileInputs.cache
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.dll
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\refint\AdvocateDiary.Repository.dll
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\AdvocateDiary.Repository.pdb
+D:\D\Projects\AdvocateDiary\AdvocateDiary\AdvocateDiary.Repository\obj\Debug\net6.0\ref\AdvocateDiary.Repository.dll
