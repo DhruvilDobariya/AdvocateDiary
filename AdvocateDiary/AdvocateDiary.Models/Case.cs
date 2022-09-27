@@ -13,7 +13,9 @@ namespace AdvocateDiary.Models
         public Case()
         {
             Fees = new HashSet<Fees>();
+            Cases = new HashSet<Case>();
         }
+
         [Key]
         public int CaseId { get; set; }
         public string CaseName { get; set; } = null!;
@@ -35,6 +37,7 @@ namespace AdvocateDiary.Models
         public virtual CaseType? CaseType { get; set; }
 
         public virtual ICollection<Fees> Fees { get; set; }
+        public virtual ICollection<Case> Cases { get; set; }
 
     }
 }
