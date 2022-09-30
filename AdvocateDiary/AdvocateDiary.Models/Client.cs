@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace AdvocateDiary.Models
 {
@@ -57,6 +52,6 @@ namespace AdvocateDiary.Models
         public DateTime ModificationDate { get; set; }
 
         public virtual ICollection<Case> Cases { get; set; }
-        public virtual ICollection<Fees> Fees { get; set; } 
+        public virtual ICollection<Fees> Fees { get; set; }
     }
 }

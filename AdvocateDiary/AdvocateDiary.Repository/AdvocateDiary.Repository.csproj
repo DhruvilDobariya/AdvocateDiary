@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\" />
+    <ProjectReference Include="..\AdvocateDiary.Models\AdvocateDiary.Models.csproj" />
   </ItemGroup>
 
 </Project>

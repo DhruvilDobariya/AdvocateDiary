@@ -782,6 +782,20 @@
             "rid": "win"
           }
         }
+      },
+      "AdvocateDiary.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
+        },
+        "compile": {
+          "bin/placeholder/AdvocateDiary.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdvocateDiary.Models.dll": {}
+        }
       }
     }
   },
@@ -2003,10 +2017,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "AdvocateDiary.Models/1.0.0": {
+      "type": "project",
+      "path": "../AdvocateDiary.Models/AdvocateDiary.Models.csproj",
+      "msbuildProject": "../AdvocateDiary.Models/AdvocateDiary.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AdvocateDiary.Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
@@ -2045,7 +2065,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\D\\Projects\\AdvocateDiary\\AdvocateDiary\\AdvocateDiary.Models\\AdvocateDiary.Models.csproj": {
+              "projectPath": "D:\\D\\Projects\\AdvocateDiary\\AdvocateDiary\\AdvocateDiary.Models\\AdvocateDiary.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
